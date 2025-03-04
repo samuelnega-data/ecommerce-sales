@@ -144,7 +144,7 @@ select * from branches
 select * from transactions
 ```
 ## Insights
-- The analysis of the Arpand ecommerce dataset revealed several interesting insights.
+_The analysis of the Arpand ecommerce dataset revealed several interesting insights._
 - Japan emerged as the best-performing country in terms of total sales, while France lagged behind.
 - Gender-wise, males spent the most money, and a significant portion of both men and women used credit cards for transactions.
 - Arpand Tokyo was the top-performing branch, with influencer, TV, and email marketing strategies being the most successful across the top branches.
