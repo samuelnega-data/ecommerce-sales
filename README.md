@@ -7,9 +7,21 @@ I performed a thorough analysis of the Arpand ecommerce dataset that I obtained 
 https://www.kaggle.com/datasets/aliazimieco/rfm-dataset?select=arpand_ecommerce_dataset.csv
 
 ## Exploring the Dataset and Understanding it 
-- In the branches dataset we see two interesting columns FixedCostEUR: Fixed monthly costs (rent, salaries) and VariableCostEUR: Variable monthly costs (utilities, maintenance) can be interesting examining this table
-- In the transactions table we see a traffic multiplier, this lets us know how much the standard price is multiplied by during a specifc event type 
-- In the transaction table we also see an AB Test group this tells us the type of marketing strategy each branch is during certain event types letting us know the best performing AB Test Groups to use
+- Order Number: The order number for each order number	
+- Date	
+- Sales Rep	
+- Region	
+- Customer ID	
+- Company Name	
+- Company Rep	
+- Model	
+- Color	
+- Item Code	
+- Quantity	
+- Price Per Unit	
+- Total Sales
+
+
 
 ## Analyzing the Dataset (Queries)
 ```sql
